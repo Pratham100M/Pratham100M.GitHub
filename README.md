@@ -21,7 +21,6 @@ I enjoy building practical systems from the ground up, debugging with a hands-on
 
 ### Tools & Environments
 - Visual Studio Code
-- Git
 - GitHub
 
 ### Core Competencies
